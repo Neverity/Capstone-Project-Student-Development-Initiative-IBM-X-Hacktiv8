@@ -16,7 +16,7 @@ JavaScript (Vanilla) – Interaksi sederhana seperti tombol scroll dan animasi k
 Google Gemini – Membantu generate kode, dokumentasi, dan optimasi desain
 Netlify – Deployment website secara gratis dan cepat
 
-#Features
+# Features
 About Me Section – Menampilkan profil singkat dan keahlian
 Projects Section – Showcase proyek yang pernah dibuat
 Contact Section – Form kontak sederhana menggunakan Google Form
