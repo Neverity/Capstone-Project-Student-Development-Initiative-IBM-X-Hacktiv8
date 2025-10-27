@@ -1,5 +1,3 @@
-# Capstone-Project-Student-Development-Initiative-IBM-X-Hacktiv8
-
 # Project Title
 Personal Portfolio Website – Fathan Andhika Daffa Putra Adhiwibowo
 
