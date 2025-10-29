@@ -10,7 +10,6 @@ Proyek ini dikembangkan dengan bantuan AI IBM Granite untuk mempercepat proses p
 # Technologies Used
 HTML5 – Struktur halaman web.  
 CSS3 – Styling dan layout responsif.  
-JavaScript (Vanilla) – Interaksi sederhana seperti tombol scroll dan animasi kecil.  
 Google Gemini – Membantu generate kode, dokumentasi, dan optimasi desain.  
 Netlify – Deployment website secara gratis dan cepat.  
 
